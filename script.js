@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }, stepTime);
     };
 
-    const text = "A Word From My Deepest Heart";
+    const text = ["A Word From My Deepest Heart", "A Word From My Deepest Heart", "A Beautiful Girl", "Type Shii"];
     const typewriterElement = document.getElementById('typewriter-title');
         let index = 0;
 
